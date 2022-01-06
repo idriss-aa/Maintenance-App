@@ -1,0 +1,50 @@
+
+#page {
+	text-align:left;
+	margin:10px 8% 10px 8%;
+	background:#fff;
+	border:1px solid #CFCFCF;
+	-moz-border-radius:6px;
+	border-radius:6px;
+	padding:0;
+	zoom:1;
+}
+
+#banner {
+	margin:0;
+	padding:0;
+  margin-top: 50px;
+	height:80px;
+	border:none;
+  text-align: center;
+}
+
+#banner h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+fieldset{
+  border:#111111 1px solid; 
+}
+
+fieldset legend{
+  padding: 0 10px;
+  font-size: 1.2em;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.right{
+  display: inline-block;
+}
+
+.left{
+  float: right;
+  margin-top: 40px;
+  margin-right: 10px;
+}
+
+.space-y-8 button{
+  float: right;
+}
+
