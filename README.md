@@ -1,3 +1,24 @@
+L’une des plus grandes problématiques dans le cadre de la maintenance des infrastructures d’une organisation consiste en la détection des défaillances ou de l’épuisement des fournitures de ces infrastructures. 
+
+Pour cela j'ai réalisé une application web dont son processus consiste à réaliser les étapes suivantes :
+
+◼ identifier la ressource (élément d’infrastructure) défaillante ; ex : vidéo-projecteur en libre service, éclairage d’une salle, distributeur de fournitures sanitaires ;
+
+◼ localiser la ressource défaillante ; ex : salle courrier, salle U2.2.2 ;
+
+◼ formuler le problème rencontré par la ressource ; ex : ampoule grillée, câble/prise défaillante, réservoir vide ;
+
+◼ identifier la personne ou le service responsable de la maintenance de la ressource ;
+
+◼ effectuer la transmission de ces informations au responsable de maintenance.
+
+Outils : React js , Express js ,Node js, Mongodb.
+
+
+![Alt Text](https://media.giphy.com/media/FchyNFMqSayQdbjy3i/giphy.gif)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
