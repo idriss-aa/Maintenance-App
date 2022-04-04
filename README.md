@@ -14,10 +14,16 @@ Pour cela j'ai réalisé une application web dont son processus consiste à réa
 
 Outils : React js , Express js ,Node js, Mongodb.
 
-
-![Alt Text](https://media.giphy.com/media/FchyNFMqSayQdbjy3i/giphy.gif)
-
-
+# Liste des utilisateurs
+![alt text](https://user-images.githubusercontent.com/47917182/159103634-724bf055-4f59-43f3-ad9a-4d02b4bcb892.jpg)
+# Espace du responsable de maintenance
+![alt text](https://user-images.githubusercontent.com/47917182/159103673-45759c0c-b375-46ec-af6f-2a9cfa4f0c22.jpg)
+# Tickets des anomalies
+![alt text](https://user-images.githubusercontent.com/47917182/159103708-d1e69c44-6e8d-4aa4-85a0-9611daaa9fdd.jpg)
+# Ressources matérielles
+![alt text](https://user-images.githubusercontent.com/47917182/159103755-c9f64f23-1f02-40f2-94fa-6c260da19622.jpg)
+# Formulaire d'anomalie
+![alt text](https://user-images.githubusercontent.com/47917182/159103796-f00e4d62-0a7c-4f10-acc9-dd343baa12b9.jpg)
 
 # Getting Started with Create React App
 
